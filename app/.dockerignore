@@ -1,0 +1,7 @@
+.venv
+__pycache__/
+*.pyc
+.git
+.gitignore
+.pre-commit-config.yaml
+tests/
